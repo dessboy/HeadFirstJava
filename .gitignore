@@ -1,0 +1,4 @@
+# Ignore Java bytecode files (they can be obtained by compiling Java files)
+
+*.class
+
